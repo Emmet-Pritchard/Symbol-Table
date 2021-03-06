@@ -16,7 +16,7 @@
  *  110 lines of code to this file. This count includes lines containing
  *  only a single closing bracket (}).
  * <p>
- * @author <b>Your name</b> goes here
+ * @author Emmet Pritchard
  */
 
 /** size of LC3 memory */
